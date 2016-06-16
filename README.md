@@ -1,14 +1,14 @@
 # Toy Robot Simulator
 A simulation of a toy robot moving on a square tabletop.
 
-For more details, see toy_robot.md.
+For more details, see [Toy Robot Simulator Description](toy_robot.md).
 
 ## Dependencies
 * Ruby 2.3.1
 
 ## Setup
 ```
-git clone
+git clone https://github.com/prodis/toy_robot.git
 cd toy_robot
 bundle install
 ```
